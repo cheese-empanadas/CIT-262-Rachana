@@ -7,7 +7,9 @@
         "projectId": "fbb8b674-061a-4b92-b61b-e82e888c3bb7"
       }
     },
-    "ios": {},
+    "ios": {
+      "bundleIdentifier": "com.rachana1995.stediapp"
+    },
     "android": {
       "package": "com.rachana1995.stediapp"
     }
